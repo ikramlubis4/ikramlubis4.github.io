@@ -1,0 +1,83 @@
+.header
+ 
+  {
+ 
+  font-size:34px;
+ 
+  background-color:#fdfbfb;
+ 
+  color:Green;
+ 
+  position:relative;
+ 
+  width:600;
+ 
+  height:70;
+ 
+  }
+ 
+.navbar
+ 
+  {
+ 
+  width:600;
+ 
+  height:30;
+ 
+  background-color:#FFFF00; 
+ 
+  }
+ 
+.left-sidebar
+ 
+  {
+ 
+   background-color:#008000; 
+ 
+   width:200; 
+ 
+   height:450;
+ 
+  }
+ 
+.content-main
+ 
+  {
+ 
+  background-color:#fdfbfb;
+ 
+  width:400;
+ 
+  height:450;
+ 
+  }
+ 
+.right-sidebar
+ 
+  {
+ 
+  background-color:#008000; 
+ 
+  width:200; 
+ 
+  height:450;
+ 
+  }
+ 
+}
+ 
+.footer
+ 
+  {
+ 
+  width:700;
+ 
+  height:50;
+ 
+  background-color:#FFFF00;
+ 
+  }
+  th, td
+  {border:1px solid #000;
+border-spacing:0;
+  }
